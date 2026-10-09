@@ -1,0 +1,6 @@
+{
+  "name": "Splitwise",
+  "description": "Expense splitting app for Lokesh, DNP, Subhajit, Anike, Amit, Avik, and Sameek with simplified settlement calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
